@@ -1,7 +1,7 @@
 /* General styles */
 html {
   font-family: 'Helvetica neue', Arial, 'sans serif';
-  font-size: -16px;
+  font-size: -19px;
 }
 
 body {
@@ -24,9 +24,9 @@ pl,i {
 
 /* header and footer */
 header, footer {
-  background-colour: #7cb342;
+  background-color: #78bb30;
   height: 10em
-  padding: 2em;
+  padding 2em;
 }
 
 h1, footer p {
@@ -36,12 +36,12 @@ h1, footer p {
 
 footer li {
   float: left
-  list-style-type: none;
+  list-style-type none;
   padding:0.5em;
 }
 
 footer a {
-  color: #fff;
+  background-color: rgb(20, 218, 30);
 }
 
 h1 {
@@ -60,5 +60,5 @@ main p, main li {
 
 img {
   float: left
-  margin: 1.2em 2em;
+  margin 1.2em 2em;
 }
